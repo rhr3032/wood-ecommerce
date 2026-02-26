@@ -8,21 +8,21 @@ const accessories = [
     name: "Compact Model",
     description: "120m² living space with optimal energy efficiency",
     price: "$285,000",
-    image: "/images/hero-side-1.png",
+    image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: 2,
     name: "Standard Model",
     description: "180m² perfect balance of space and sustainability",
     price: "$395,000",
-    image: "/images/hero-side-2.png",
+    image: "https://images.unsplash.com/photo-1465101046530-73398c7f1a09?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: 3,
     name: "Premium Model",
     description: "250m² expansive design with maximum comfort",
     price: "$525,000",
-    image: "/images/hero-side-4.png",
+    image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
   },
 ];
 

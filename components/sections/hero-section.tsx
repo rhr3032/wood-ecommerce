@@ -7,25 +7,25 @@ const word = "MONO";
 
 const sideImages = [
   {
-    src: "/images/hero-side-1.png",
+    src: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
     alt: "Modern architecture with corten steel",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/hero-side-2.png",
+    src: "https://images.unsplash.com/photo-1465101046530-73398c7f1a09?auto=format&fit=crop&w=800&q=80",
     alt: "Aerial view of modern home",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/hero-side-3.png",
+    src: "https://images.unsplash.com/photo-1501594907352-04cda38b494c?auto=format&fit=crop&w=800&q=80",
     alt: "Interior view with landscape",
     position: "right",
     span: 1,
   },
   {
-    src: "/images/hero-side-4.png",
+    src: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
     alt: "Modern architecture at night",
     position: "right",
     span: 1,

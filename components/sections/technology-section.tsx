@@ -66,12 +66,12 @@ function ScrollRevealText({ text }: { text: string }) {
 
 const sideImages = [
   {
-    src: "/images/interior-view.png",
+    src: "https://images.unsplash.com/photo-1465101046530-73398c7f1a09?auto=format&fit=crop&w=800&q=80",
     alt: "Interior view with landscape",
     position: "left",
   },
   {
-    src: "/images/rusted-metal.png",
+    src: "https://images.unsplash.com/photo-1501594907352-04cda38b494c?auto=format&fit=crop&w=800&q=80",
     alt: "Rusted metal texture",
     position: "right",
   },
@@ -188,7 +188,7 @@ export function TechnologySection() {
               {/* Layered Images - Progressive Fade In */}
               {/* Image 1 - Base layer - Sunrise/Sunset with sun rays */}
               <Image
-                src="/images/mono-1.png"
+                src="https://images.unsplash.com/photo-1465101046530-73398c7f1a09?auto=format&fit=crop&w=1200&q=80"
                 alt="Modern architecture at sunrise"
                 fill
                 className="object-cover"
@@ -199,7 +199,7 @@ export function TechnologySection() {
               
               {/* Image 2 - Daytime scene - Fades in during first text cycle */}
               <Image
-                src="/images/mono-2.png"
+                src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
                 alt="Modern architecture in daylight"
                 fill
                 className="absolute inset-0 object-cover"
@@ -211,7 +211,7 @@ export function TechnologySection() {
               
               {/* Image 3 - Dusk/Evening - Fades in during second text cycle */}
               <Image
-                src="/images/mono-3.png"
+                src="https://images.unsplash.com/photo-1465101046530-73398c7f1a09?auto=format&fit=crop&w=1200&q=80"
                 alt="Modern architecture at dusk"
                 fill
                 className="absolute inset-0 object-cover"
@@ -223,7 +223,7 @@ export function TechnologySection() {
               
               {/* Image 4 - Night with stars - Fades in during third text cycle */}
               <Image
-                src="/images/mono-4.png"
+                src="https://images.unsplash.com/photo-1501594907352-04cda38b494c?auto=format&fit=crop&w=1200&q=80"
                 alt="Modern architecture at night"
                 fill
                 className="absolute inset-0 object-cover"
